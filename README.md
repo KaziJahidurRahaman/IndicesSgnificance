@@ -68,4 +68,4 @@ The classes are-
 ## 5. Conclusion
 <p>The study finds that, indices has diferring effects on various ML/DL algorithms, specially for DL algorithms, it improves the OA significantly. On the otherhand, it drops the accuracy of SVM algorithm, however, yet in this case, it significantly improves the computation complexity. As of the best algorithm to classiy the LULC is concerned, SVM with only the Band 1-12 is the opmtimal one. However, the newly proposed approach based best class wise models overtrumps the accuracy of SVM .</p>
 
-##### [A detailed report of the task can be found in the report folder. The classified outputs are availabale in the outputs folder].
+##### [A detailed report of the task can be found in the report file. The classified outputs are availabale in the outputs folder].
