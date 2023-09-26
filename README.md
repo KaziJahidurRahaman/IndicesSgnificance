@@ -18,51 +18,51 @@ The classes are-
 <p>The objectives of this study includes understanding the impact of these indices on LULC classification, producing updated LULC maps. At the end, a new approach (hybrid) combining the outputs from the best models for each of the classes were proposed. This new approach shows the better accuracy then all other models attempted in the study.</p> 
 
 ## 2. Study Area
-![image](https://github.com/KaziJahidurRahaman/IndicesSignificanceLULC/assets/109986838/388e1a6d-8cd8-41f5-8dc3-54473b501919)
+![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/067f5f23-e0ef-4733-9c4d-54e107e341d6)
+
 
 ## 3. General Workflow
-![image](https://github.com/KaziJahidurRahaman/IndicesSignificanceLULC/assets/109986838/409c0039-ad95-4b7f-9c18-0df282911d41)
+![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/06d6e3ce-0a45-4f53-a965-a5b8f1e10648)
+
 
 ## 4. Outputs
 ### 4.1 The class wise and overall accuracies for SVM, RF and ANN with 2 datasets
 
-![OA and class wise accuracies of the attempted models](https://github.com/KaziJahidurRahaman/IndicesSignificanceLULC/assets/109986838/7e9bf5d3-c89c-474f-af0e-85ea9dc5419c)
+![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/8e314669-dc1d-440e-9178-202d3ece6788)
 
 
 ### 4.2 Impact of indices on classwise and OA
 
-![Impact on accuracy due to the index’s incorporation](https://github.com/KaziJahidurRahaman/IndicesSignificanceLULC/assets/109986838/79c11a97-4b52-4456-94b2-bd193535c20b)
+![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/d4bf5d78-0076-4d09-9749-f3d44f26341e)
 
 ### 4.3 Confusion Metrices of the algorithms with both datasets
-![image](https://github.com/KaziJahidurRahaman/IndicesSignificanceLULC/assets/109986838/b8960e15-721e-47f8-974e-c0f68a27eedd)
-
-![image](https://github.com/KaziJahidurRahaman/IndicesSignificanceLULC/assets/109986838/30d84197-f5fe-403c-9bd5-7f417b021805)
-
-![image](https://github.com/KaziJahidurRahaman/IndicesSignificanceLULC/assets/109986838/54729982-dc22-4239-bccd-cfda2c4c0bea)
+![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/bb23aba8-bf5f-427d-b96a-9c53a73334b7)
+![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/eebb2ae4-2f95-4976-a314-2fd092ae35fe)
+![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/6dd453e4-be1a-42f0-a5a2-93d23237854f)
 
 ### 4.4 Impact of the indices on time complexity of the models
 #### 4.4.1 SVM's accuracy reduces with the indices, but computation time decreases significantly
-![image](https://github.com/KaziJahidurRahaman/IndicesSignificanceLULC/assets/109986838/99bf3789-4fe6-493d-b790-f800aef97a76)
+![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/dcc526e4-20d9-4b14-9087-bc53988c63bc)
 
 #### 4.4.2 RF and ANN gains accuracy when indices are added with data. But computation time increases
-![image](https://github.com/KaziJahidurRahaman/IndicesSignificanceLULC/assets/109986838/1f99adaa-0ab2-4765-8154-9fc4ee7e422f)
+![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/99f65308-af0b-438d-bc38-0b217faa8229)
 
 #### 4.4.3 Learning Curves of ANN shows better ability to generalise when indices added
-![image](https://github.com/KaziJahidurRahaman/IndicesSignificanceLULC/assets/109986838/619e7edf-549f-4fb6-be1f-8e1cf2d6c173)
+![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/019629a1-9eaf-4d51-aec6-2dc9ff8ede04)
 
 ### 4.5 Proposed new approach performance and comaing with previous 2 best models shows better performance
-![image](https://github.com/KaziJahidurRahaman/IndicesSignificanceLULC/assets/109986838/173fc4bc-c626-45d6-9d3a-5610f48b0604)
+![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/b86e7505-be13-4e8c-ba35-4bc91d67573e)
 
-![Comparison of class wise and overall accuracies of 2 best models(previous) and proposed new approach](https://github.com/KaziJahidurRahaman/IndicesSignificanceLULC/assets/109986838/5194c8f8-8284-4cc9-a4e6-45eec60b63be)
+![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/317fceb8-ac61-42ec-955a-2b75ca542e61)
 
 ### 4.6 Classified LULC Maps
-![image](https://github.com/KaziJahidurRahaman/IndicesSignificanceLULC/assets/109986838/9f1043e7-0812-4e65-85fc-f04d6799b4c9)
+![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/746fbe30-f5b7-4db9-9bae-618d6d09b3da)
 
-![image](https://github.com/KaziJahidurRahaman/IndicesSignificanceLULC/assets/109986838/873fb266-a224-4f28-b2d2-89fd080b6590)
+![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/3253bf66-b4ed-4dbf-9ad1-36721c8510b2)
 
-![image](https://github.com/KaziJahidurRahaman/IndicesSignificanceLULC/assets/109986838/b378fc44-d145-4cb2-959d-29988f4b28f5)
+![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/e9280554-45dc-47c9-b48e-840a025b45aa)
 
-![image](https://github.com/KaziJahidurRahaman/IndicesSignificanceLULC/assets/109986838/76900cdf-9466-49be-acf9-98fc373947e0)
+![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/a53581de-5ec3-4113-9587-7711a4b9375f)
 
 
 ## 5. Conclusion
