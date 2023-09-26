@@ -48,7 +48,8 @@ The classes are-
 ![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/99f65308-af0b-438d-bc38-0b217faa8229)
 
 #### 4.4.3 Learning Curves of ANN shows better ability to generalise when indices added
-![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/019629a1-9eaf-4d51-aec6-2dc9ff8ede04)
+ 
+![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/6094b551-d49c-4bae-9c24-fc89a05dad0a)
 
 ### 4.5 Proposed new approach performance and comaing with previous 2 best models shows better performance
 ![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/b86e7505-be13-4e8c-ba35-4bc91d67573e)
