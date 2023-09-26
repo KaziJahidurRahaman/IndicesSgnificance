@@ -42,7 +42,7 @@ The classes are-
 
 ### 4.4 Impact of the indices on time complexity of the models
 #### 4.4.1 SVM's accuracy reduces with the indices, but computation time decreases significantly
-![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/dcc526e4-20d9-4b14-9087-bc53988c63bc)
+![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/765c3081-e7a3-41a7-b84b-96eebb77188d)
 
 #### 4.4.2 RF and ANN gains accuracy when indices are added with data. But computation time increases
 ![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/99f65308-af0b-438d-bc38-0b217faa8229)
